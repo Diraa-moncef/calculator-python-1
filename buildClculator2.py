@@ -3,7 +3,7 @@ print("---      ---    /\   ------    -- --")
 print("|  \    /  |   /--\    ||      ||-||")
 print("|   \__/   |  /----\   ||      || ||")
 print("--        -- --    --  ||      -- --")
-print("Bonjour\nBienvenu( e ) dans cette simple calculatrice qui calcule deux nombres\nles operateurs (*|+| - |/|^) .\n merci de vous respecter ces normes\n")
+print("Bonjour\nBienvenue dans cette simple calculatrice qui calcule deux nombres\nles operateurs (*|+| - |/|^) .\n merci de vous respecter ces normes\n")
 from math import *
 nmb1 =float(input("veuillez entrer votre premier valeur:"))
 operateur =input("veuillez entrer votre operateur:")
