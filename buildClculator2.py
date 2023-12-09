@@ -38,4 +38,4 @@ else:
     print("      \/\/\/\/   ")
     print(" //              \\")
     print("##                ##")
-    print("cette n'existe pas  malheureusement\n### <essayer une autre fois> ###")
+    print("ce paramètre n'existe pas  malheureusement\n### <essayer une autre fois> ###")
